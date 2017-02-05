@@ -1,4 +1,4 @@
 # currenttime
 
-write a bit about yourself
+write a bit about yourself:
 time
